@@ -1,9 +1,0 @@
-﻿  main.c
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(95): warning C4410: illegal size for operand
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(95): warning C4409: illegal instruction size
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(58): warning C4102: '__prolog__': unreferenced label
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(66): warning C4102: 'call_ntaccess_check': unreferenced label
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(116): warning C4028: formal parameter 1 different from declaration
-c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(116): warning C4133: 'function': incompatible types - from 'void (__stdcall *)(void)' to 'LPTHREAD_START_ROUTINE'
-  Egghunter.vcxproj -> C:\Users\Xboxe\Documents\Visual Studio 2017\Projects\Egghunter\Debug\Egghunter.exe
-  Egghunter.vcxproj -> C:\Users\Xboxe\Documents\Visual Studio 2017\Projects\Egghunter\Debug\Egghunter.pdb (Partial PDB)

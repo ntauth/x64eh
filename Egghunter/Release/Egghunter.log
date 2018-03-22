@@ -1,0 +1,9 @@
+﻿  main.c
+main.c(15): warning C4102: '__prolog__': unreferenced label
+main.c(22): warning C4102: 'check_violation': unreferenced label
+main.c(33): warning C4102: 'pinpoint_egg': unreferenced label
+main.c(41): warning C4102: '__epilog__': unreferenced label
+  Generating code
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Egghunter.vcxproj -> c:\users\xboxe\documents\visual studio 2017\Projects\Egghunter\Release\Egghunter.exe

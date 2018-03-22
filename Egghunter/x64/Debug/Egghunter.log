@@ -1,0 +1,95 @@
+﻿  main.c
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(6): error C2485: 'naked': unrecognized extended attribute
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(9): error C2065: 'retn': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(12): error C2485: 'naked': unrecognized extended attribute
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(16): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(16): error C2065: 'push': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(16): error C2146: syntax error: missing ';' before identifier 'ebp'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(16): error C2065: 'ebp': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(17): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(17): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(17): error C2146: syntax error: missing ';' before identifier 'ebp'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(17): error C2065: 'ebp': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(17): error C2065: 'esp': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(19): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(19): error C2065: 'or': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(19): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(19): error C2065: 'ecx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(21): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(21): error C2065: 'add': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(21): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(21): error C2065: 'ecx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(23): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(23): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(23): error C2146: syntax error: missing ';' before identifier 'r10'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(23): error C2065: 'r10': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(23): error C2065: 'rcx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(24): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(24): error C2065: 'push': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(24): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(24): error C2065: 'ecx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(25): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(25): error C2065: 'push': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(25): error C2143: syntax error: missing ';' before 'constant'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(26): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(26): error C2065: 'pop': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(26): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(26): error C2065: 'eax': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): error C2065: 'push': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): error C2146: syntax error: missing ';' before identifier 'offset'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): error C2065: 'offset': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): error C2146: syntax error: missing ';' before identifier 'return_stub'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(27): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(28): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(28): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(28): error C2146: syntax error: missing ';' before identifier 'edx'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(28): error C2065: 'edx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(28): error C2065: 'esp': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(29): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(29): error C2065: '_emit': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(29): error C2143: syntax error: missing ';' before 'constant'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(30): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(30): error C2065: '_emit': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(30): error C2143: syntax error: missing ';' before 'constant'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(31): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(31): error C2065: 'cmp': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(31): error C2146: syntax error: missing ';' before identifier 'al'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(31): error C2065: 'al': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(32): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(32): error C2065: 'pop': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(32): error C2146: syntax error: missing ';' before identifier 'ecx'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(32): error C2065: 'ecx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(33): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(33): error C2065: 'je': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(33): error C2146: syntax error: missing ';' before identifier 'next_page'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(33): error C2065: 'next_page': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(35): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(35): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(35): error C2146: syntax error: missing ';' before identifier 'esi'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(35): error C2065: 'esi': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(36): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(36): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(36): error C2146: syntax error: missing ';' before identifier 'edi'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(36): error C2065: 'edi': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(36): error C2065: 'ecx': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(37): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(37): error C2065: 'scasd': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(38): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(38): error C2065: 'jne': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(38): error C2146: syntax error: missing ';' before identifier 'next_byte'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(38): error C2065: 'next_byte': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(39): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(39): error C2065: 'scasd': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(40): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(40): error C2065: 'jne': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(40): error C2146: syntax error: missing ';' before identifier 'next_byte'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(40): error C2065: 'next_byte': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(43): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(43): error C2065: 'mov': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(43): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(43): error C2065: 'eax': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(43): error C2065: 'edi': undeclared identifier
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(44): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\xboxe\documents\visual studio 2017\projects\egghunter\egghunter\main.c(44): error C2065: 'ret': undeclared identifier
